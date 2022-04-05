@@ -2,7 +2,7 @@
 
 
 - I’m @FedericoBonel a Tokyo based aspirant Software Engineer 
-- 👀 I’m interested in learning software development and all that's included in that. Yes I know, it's a lot, but I'm determined to overcome my self and I'm not afraid to fail, because:  <br> 
+- 👀 I’m interested in learning software development and all that's included in that. Yes I know, it's a lot, but I'm determined to overcome myself and I'm not afraid to fail, because:  <br> 
 Failure -leads to-> Learning -leads to-> Gather skills and interiorize knowledge -leads to-> Become a better professional (and almost anything for that matter)  <br> 
 
 - 🌱 I’m currently in college following a CSE major and specialising in Software Engineering. <br> 
