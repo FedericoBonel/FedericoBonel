@@ -1,6 +1,6 @@
 # Hello! 👋
 
-- I’m @FedericoBonel, a Tokyo-based Software Engineer.
+- 👨‍💻 I’m @FedericoBonel, a Tokyo-based Software Engineer.
 - 👀  I’m interested in learning software development and all that it encompasses. Yes, I know, it's a lot, but I'm determined to push my limits and I'm not afraid to fail, because:
 Failure → Learning → Skills and knowledge → Better professional (and almost anything else for that matter)
 - 📜 I just graduated from college with a BSE in Computer Science, specializing in Software Engineering.
